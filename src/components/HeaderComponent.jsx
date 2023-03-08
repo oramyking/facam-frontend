@@ -12,8 +12,7 @@ export default class HeaderComponent extends Component {
         <header>
           <nav className="navbar navbar-expand-md navbar-dark bg-dark">
             <div>
-              <a href="http://www.fastcampus-dragon.net" className="navbar-brand">
-                mingyu - jenkins
+              <a href="http://ecs.fastcam-test.com" className="navbar-brand"> Hello ECS - jenkins
               </a>
             </div>
           </nav>
